@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\arpsb\\OneDrive\\Documentos\\Diario_De_Bordo_DSM\\Diario_De_Bordo_DSM.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\arpsb\\OneDrive\\Documentos\\Diario_De_Bordo_DSM\\Diario_De_Bordo_DSM.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\arpsb\\OneDrive\\Documentos\\Diario_De_Bordo_DSM\\Diario_De_Bordo_DSM.csproj",
+        "projectName": "Diario_De_Bordo_DSM",
+        "projectPath": "C:\\Users\\arpsb\\OneDrive\\Documentos\\Diario_De_Bordo_DSM\\Diario_De_Bordo_DSM.csproj",
+        "packagesPath": "C:\\Users\\arpsb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\arpsb\\OneDrive\\Documentos\\Diario_De_Bordo_DSM\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\arpsb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
